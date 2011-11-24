@@ -113,4 +113,7 @@ Emacs load path."
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/rails-minor-mode"))
 (require 'rails)
 
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/rhtml-minor-mode"))
+(require 'rhtml-mode)
+
 ;;; init.el ends here
