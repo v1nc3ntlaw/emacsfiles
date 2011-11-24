@@ -1,0 +1,3 @@
+[submodule "rails-minor-mode"]
+	path = rails-minor-mode
+	url = git@github.com:v1nc3ntlaw/rails-minor-mode.git
